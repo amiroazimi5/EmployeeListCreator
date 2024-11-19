@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "list Creator (windows form)/1.0.0": {
+        "runtime": {
+          "list Creator (windows form).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "list Creator (windows form)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

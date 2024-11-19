@@ -1,0 +1,19 @@
+E:\C#\list Creator (windows form)\bin\Debug\net8.0-windows\list Creator (windows form).exe
+E:\C#\list Creator (windows form)\bin\Debug\net8.0-windows\list Creator (windows form).deps.json
+E:\C#\list Creator (windows form)\bin\Debug\net8.0-windows\list Creator (windows form).runtimeconfig.json
+E:\C#\list Creator (windows form)\bin\Debug\net8.0-windows\list Creator (windows form).dll
+E:\C#\list Creator (windows form)\bin\Debug\net8.0-windows\list Creator (windows form).pdb
+E:\C#\list Creator (windows form)\obj\Debug\net8.0-windows\list_Creator__windows_form_.Form1.resources
+E:\C#\list Creator (windows form)\obj\Debug\net8.0-windows\list Creator (windows form).csproj.GenerateResource.cache
+E:\C#\list Creator (windows form)\obj\Debug\net8.0-windows\list Creator (windows form).GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\list Creator (windows form)\obj\Debug\net8.0-windows\list Creator (windows form).AssemblyInfoInputs.cache
+E:\C#\list Creator (windows form)\obj\Debug\net8.0-windows\list Creator (windows form).AssemblyInfo.cs
+E:\C#\list Creator (windows form)\obj\Debug\net8.0-windows\list Creator (windows form).csproj.CoreCompileInputs.cache
+E:\C#\list Creator (windows form)\obj\Debug\net8.0-windows\list Creator (windows form).dll
+E:\C#\list Creator (windows form)\obj\Debug\net8.0-windows\refint\list Creator (windows form).dll
+E:\C#\list Creator (windows form)\obj\Debug\net8.0-windows\list Creator (windows form).pdb
+E:\C#\list Creator (windows form)\obj\Debug\net8.0-windows\list Creator (windows form).genruntimeconfig.cache
+E:\C#\list Creator (windows form)\obj\Debug\net8.0-windows\ref\list Creator (windows form).dll
+E:\C#\list Creator (windows form)\bin\Debug\net8.0-windows\en\list Creator (windows form).resources.dll
+E:\C#\list Creator (windows form)\obj\Debug\net8.0-windows\list_Creator__windows_form_.Form1.en.resources
+E:\C#\list Creator (windows form)\obj\Debug\net8.0-windows\en\list Creator (windows form).resources.dll
